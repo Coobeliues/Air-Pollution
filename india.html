@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Dashboard</title>
+    <!-- Leaflet CSS and JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="stock.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Air Quality Dashboard</h1>
+        <div id="data-container">
+            <div id="iaqi-container">
+                <h2>AQI</h2>
+                <p>Air Quality Index: <span id="iaqi"></span></p>
+            </div>
+            <div id="pm25-container">
+                <h2>PM2.5</h2>
+                <p>PM2.5: <span id="pm25"></span> µg/m³</p>
+            </div>
+            <div id="pm10-container">
+                <h2>PM10</h2>
+                <p>PM10: <span id="pm10"></span> µg/m³</p>
+            </div>
+            <div id="no2-container">
+                <h2>NO2</h2>
+                <p>NO2: <span id="no2"></span> ppb</p>
+            </div>
+            <div id="t-container">
+                <h2>Temp</h2>
+                <p>TEMP: <span id="t"></span>°C</p>
+            </div>
+            <div id="w-container">
+                <h2>Wind</h2>
+                <p>WIND: <span id="w"></span> m/s</p>
+            </div>
+
+            <div id="gpt-container">
+                <span id="gpt"></span>
+            </div>
+
+            <div id="charts-container">
+                <h2>Air Quality Parameters Forecast</h2>
+                <canvas id="pm10Chart" width="400" height="200"></canvas>
+                <canvas id="pm25Chart" width="400" height="200"></canvas>
+            </div>
+        </div>
+        <!-- Input field for API token
+        <input type="text" id="6022f160d335edf3cabb5b495b6c860eac0cdbc1">
+        
+        Input and output elements for search functionality -->
+        <h3>Search</h3>
+
+        <input type="text" id="search-input" placeholder="Enter your search query" style="height: 10px; width: 97%;">
+        <div id="search-output"></div>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <!-- Script for search functionality -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+
+                // Call init function with appropriate parameters
+                init("#6022f160d335edf3cabb5b495b6c860eac0cdbc1", "#search-input", "#search-output");
+
+
+                // Fetch air quality data initially
+                fetchAirQualityData();
+
+                // Fetch air quality data every 180 seconds
+                setInterval(fetchAirQualityData, 180000);
+            });
+
+        </script>
+        <script src="api.js"></script>
+
+        <h3>Map</h3>
+
+        <div class="container">
+            <div id="leaflet-locations"></div>
+            <div id="leaflet-map" style="height: 400px; width: 100%; margin: 10px auto; padding: 10px auto;"></div>
+            <div id="leaflet-map-error" style="display: none;"></div>
+        </div>
+
+    </div>
+
+    <script src="spid.js"></script>
+</body>
+
+</html>

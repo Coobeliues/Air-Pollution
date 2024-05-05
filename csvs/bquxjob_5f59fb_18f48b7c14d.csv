@@ -1,0 +1,221 @@
+city,stationId,station_source,name,address,lat,lng,sea_level,status
+Almaty,s2,IQAir,N/A,Yegizbaev - Rozybakiev,43.230287,76.886544,841.0,ok
+Almaty,s3,IQAir,N/A,Bogenbay Batyr - Masanchi,43.252323,76.931237,804.0,ok
+Almaty,60ec15223fdcd35938ff8d9a,Clarity,CHP,"Морг (Городское патологоанатомическое бюро), 131, улица Аксайская, Alatau District, Almaty, 050033, Kazakhstan",43.291614209998848,76.804367562668617,0.0,ok
+Almaty,60ec15223fdcd35938ff8d04,Clarity,KBTU,"Panfilov Street, Almaly District, Almaty, 050004, Kazakhstan",43.253478766217242,76.945368421092013,0.0,ok
+Almaty,609935dcc9348052e0c5d929,Clarity,DIS-7,"Интернациональная улица, Nauryzbay District, Almaty, Karasay District, Almaty Region, 040203, Kazakhstan",43.205327130825815,76.7769168478819,0.0,ok
+Almaty,609935dec9348052e0c5da7f,Clarity,Alatau,"Алатау, Кафе, 53, улица Казыбек Тауасарулы, Bostandyk District, Almaty, 050023, Kazakhstan",43.176578104286946,76.897705838848609,0.0,ok
+Almaty,60ec15223fdcd35938ff8d9e,Clarity,EkoPost,"Rysqulov avenue, Aqbulaq, Alatau District, Almaty, 050038, Kazakhstan",43.249658504741106,76.805599981476263,0.0,ok
+Almaty,60ec15223fdcd35938ff8cf0,Clarity,AsiaFood,"Alatau District, Almaty, 050038, Kazakhstan",43.242831865620708,76.828717730780212,0.0,ok
+Almaty,60ec151f3fdcd35938ff8aae,Clarity,Ippodrom,"Микрорайон Кулагер, Jetysu District, Almaty, 050064, Kazakhstan",43.307779907868444,76.923242508520161,0.0,ok
+Almaty,609935dec9348052e0c5db1d,Clarity,Atyrau 54,"Атырау микрорайон, Medeu District, Almaty, 050019, Kazakhstan",43.296779600176151,76.991589596096759,0.0,ok
+Almaty,60ec15213fdcd35938ff8c60,Clarity,School 77,"улица Закарпатская, Альмерек, Жулдыз, Turksib District, Almaty, 050049, Kazakhstan",43.36341047552753,77.004572069985954,0.0,ok
+Almaty,60ec15233fdcd35938ff8de8,Clarity,169 School,"№169, Школа, 109, Утемисова улица, Шанырак 1, Шанырак, Alatau District, Almaty, 050065, Kazakhstan",43.297132877883257,76.861103764456146,0.0,ok
+Almaty,609935dec9348052e0c5dadd,Clarity,Hospital-7,"KazMunayGas, Райымбек даңғылы, Kalkaman-1, Qalqaman, Nauryzbay District, Almaty, A10H6G1, Kazakhstan",43.233961075915637,76.80012719631037,0.0,ok
+Almaty,60ec15203fdcd35938ff8bfa,Clarity,Magnum-273,"Magnum Сash & Сarry, 273, улица Хан Шатыр, Aqbulaq, Alatau District, Almaty, 050038, Kazakhstan",43.25074042971093,76.823012929533448,0.0,ok
+Almaty,60ec15213fdcd35938ff8c66,Clarity,School 137,"№137, Школа, 65А, Макатаева (Айнабулак), Айнабулак 2, Айнабулак, Jetysu District, Almaty, 050014, Kazakhstan",43.316764946296878,76.910837013084517,0.0,ok
+Almaty,60ec151f3fdcd35938ff8aa0,Clarity,School 160,"улица Заводская (Карасу), Карасу, Alatau District, Almaty, 050014, Kazakhstan",43.335836109307266,76.912874066570652,0.0,ok
+Almaty,60ec15233fdcd35938ff8dde,Clarity,School 175,"№175, Гимназия Жана Гасыр, 21, улица Саяна Шаймерденова, Auezov District, Almaty, 050052, Kazakhstan",43.199572984487162,76.854283631178347,0.0,ok
+Almaty,60ec15223fdcd35938ff8da6,Clarity,School 186,"Айманова (Акжар), Akzhar, Nauryzbay District, Almaty, 040203, Kazakhstan",43.191479221759039,76.802835675461409,0.0,ok
+Almaty,609935ddc9348052e0c5da5f,Clarity,School 187,"улица Жандосова (Таусамалы), Каменка, Nauryzbay District, Almaty, 050006, Kazakhstan",43.185794307121427,76.828477026120567,0.0,ok
+Almaty,60ec15223fdcd35938ff8ce8,Clarity,School 190,"Bostandyk District, Almaty, A17B7C3, Kazakhstan",43.154756673769761,76.899200680113324,0.0,ok
+Almaty,60ec15213fdcd35938ff8c4e,Clarity,School 192,"Какишева улица, Курамыс, Каргайлы, Nauryzbay District, Almaty, 050070, Kazakhstan",43.172031,76.852339,0.0,ok
+Almaty,609935ddc9348052e0c5da73,Clarity,Zhetysu 47,"Малая станица, Medeu District, Almaty, 050019, Kazakhstan",43.29170729096677,76.989799824753334,0.0,ok
+Almaty,60ec15213fdcd35938ff8c08,Clarity,Halyk Arena,"Halyk Arena, 2, Кульжинский тракт, Малая станица, Medeu District, Almaty, 050019, Kazakhstan",43.2872873869579,76.990668709464444,0.0,ok
+Almaty,60ec15223fdcd35938ff8d7c,Clarity,Ritz Palace,"EcoDoner, Dostyk Avenue, Алматы Тауэр, Medeu District, Almaty, 050051, Kazakhstan",43.228328836957452,76.9602836930437,0.0,ok
+Almaty,60ec15203fdcd35938ff8bc4,Clarity,Suiynbay-55,"13-й Военный городок улица, Turksib District, Almaty, 050049, Kazakhstan",43.37664309140991,76.990554917089682,0.0,ok
+Almaty,60ec15203fdcd35938ff8bfe,Clarity,Almaty Arena,"Almaty Arena, 1, Нуркент микрорайон, Нұркент, Aqbulaq, Alatau District, Almaty, 050033, Kazakhstan",43.264078547617927,76.816879574882051,0.0,ok
+Almaty,60ec15213fdcd35938ff8cae,Clarity,Gymnasium 39,"улица Спортивная, Трудовик, Alatau District, Almaty, 040707, Kazakhstan",43.3481851029586,76.843300856246,0.0,ok
+Almaty,60ec151f3fdcd35938ff8b1c,Clarity,Kokzhiyek-63,"№177, Школа, Кокжиек микрорайон, Jetysu District, Almaty, 050028, Kazakhstan",43.356932273722052,76.922566988470663,0.0,ok
+Almaty,60ec15213fdcd35938ff8c5c,Clarity,Nurly street,"улица Алатау, Елисейские поля, Шугыла микрорайон, Nauryzbay District, Almaty, A10H6G1, Kazakhstan",43.228804255214847,76.7774914696639,0.0,ok
+Almaty,60ec15213fdcd35938ff8c6a,Clarity,Respublika 4,"Almaty City Akimat, 4, Timirjazev Street, Bostandyk District, Almaty, 050013, Kazakhstan",43.236803999999992,76.944814000000008,0.0,ok
+Almaty,60ec15213fdcd35938ff8cc6,Clarity,Ryskulova 81,"улица Галилея, Рабочий посёлок, Jetysu District, Almaty, 050034, Kazakhstan",43.278654552718677,76.903474576721067,0.0,ok
+Almaty,60ec151f3fdcd35938ff8aa8,Clarity,Detsad School,"Дархан микрорайон, Дархан, Ужет, Alatau District, Almaty, 050024, Kazakhstan",43.312761348761079,76.87604335791103,0.0,ok
+Almaty,60ec15223fdcd35938ff8da8,Clarity,Iliyski trakt,"Беринга улица, Алтай, Turksib District, Almaty, 050039, Kazakhstan",43.34158170973398,76.981925119719634,0.0,ok
+Almaty,609935ddc9348052e0c5da61,Clarity,Satpayeva 40B,"Международная школа Алматы, Zhandosov Street, Коктем, Bostandyk District, Almaty, 050057, Kazakhstan",43.234052077650695,76.903254600032852,0.0,ok
+Almaty,60ec15223fdcd35938ff8cec,Clarity,Shamiyeva St.,"улица Шамиевой, Jetysu District, Almaty, 050016, Kazakhstan",43.283229322033016,76.927532190532077,0.0,ok
+Almaty,60ec15213fdcd35938ff8cce,Clarity,Elaman 105 St.,"Еламан улица, Jetysu District, Almaty, 050028, Kazakhstan",43.368606872490815,76.947050727019629,0.0,ok
+Almaty,60ec15223fdcd35938ff8cfc,Clarity,Kokkainar Micro,"Заречная улица, Kokaynar, Alatau District, Almaty, 050065, Kazakhstan",43.290757,76.841229,0.0,ok
+Almaty,60ec15233fdcd35938ff8de2,Clarity,Kotelnikova St.,"улица Котельникова, Turksib District, Almaty, 050037, Kazakhstan",43.310396880710442,76.942168982204365,0.0,ok
+Almaty,60ec15213fdcd35938ff8cc4,Clarity,Magnum Besagash,"Magnum Сash & Сarry, 167, Талгарский тракт, Medeu District, Almaty, 050019, Kazakhstan",43.29222281590885,77.0121766907784,0.0,ok
+Almaty,60ec15213fdcd35938ff8c4a,Clarity,State School 11,"Волгоградская улица, Пятилетка, микрорайон ""Пятилетка"", Turksib District, Almaty, A36H0B8, Kazakhstan",43.346126296855161,76.959255141398486,0.0,ok
+Almaty,60ec151f3fdcd35938ff8b18,Clarity,Shkola-Gimnaziya 152,"№152, Школа, 48, Жалайыр улица, Улжан 1, Alatau District, Almaty, 050024, Kazakhstan",43.301734094742429,76.872170868577712,0.0,ok
+Almaty,60ec15213fdcd35938ff8c06,Clarity,"Road, Almaty Industrial Zone","улица Индустриальная, Alatau District, Almaty, 050033, Kazakhstan",43.316523,76.804295,0.0,ok
+Almaty,60ec15213fdcd35938ff8cac,Clarity,Nicolas International chain of wineries,"Наурыз-2, ЖК, 4/1, Рахмадиева улица, Bostandyk District, Almaty, 050023, Kazakhstan",43.19364967260028,76.90962542469542,0.0,ok
+Almaty,38834077,AirKaz.org,Dual1,"Timiryazev Street, Almaty, Бостандыкский район, Almaty, 050040, Kazakhstan",43.23,76.9326,0.0,ok
+Almaty,3269728,AirKaz.org,KazGU2,"Gagarin Ave, Каргалинка, Almaty, Бостандыкский район, Almaty, 050060, Kazakhstan",43.206,76.9,0.0,ok
+Pavlodar,38918407,AirKaz.org,КВД,"улица Жаяу-Мусы, Pavlodar, Pavlodar Region, 140001, Kazakhstan",52.253,76.97,0.0,ok
+Pavlodar,48548155,AirKaz.org,ПИМК,"улица Камзина, Дачный, Pavlodar, Pavlodar Region, 140011, Kazakhstan",52.287,76.983,0.0,ok
+Temirtau,36642589,AirKaz.org,Абая 8,"улица Димитрова, Temirtau, Темиртау Г.А., Karaganda Region, 101400, Kazakhstan",50.054,72.997,0.0,ok
+Almaty,30960812,AirKaz.org,КазГУ,"Al-Farabi Kazakh National University, Al-Farabi Avenue (West), Бостандыкский район, Almaty, 050040, Kazakhstan",43.22,76.9264,0.0,ok
+Oral,37984131,AirKaz.org,ПНЗ №2,"улица Юрия Гагарина, Oral, West Kazakhstan Region, 090005, Kazakhstan",51.227,51.427,0.0,ok
+Astana,45968703,AirKaz.org,ПНЗ №2,"улица Сакена Сейфуллина, район ""Байконур"", Nur-Sultan, 010000, Kazakhstan",51.171,71.424,0.0,ok
+Oral,34686208,AirKaz.org,ПНЗ №3,"улица Сатыбалды Даумова, Oral, West Kazakhstan Region, 090006, Kazakhstan",51.212,51.349,0.0,ok
+Oral,37647376,AirKaz.org,ПНЗ №5,"Лаура, улица Дины Нурпеисовой, Oral, West Kazakhstan Region, 90005, Kazakhstan",51.2055,51.383,0.0,ok
+Astana,44593049,AirKaz.org,ПНЗ №5,"район ""Есиль"", Nur-Sultan, 010000, Kazakhstan",51.158,71.415,0.0,ok
+Atyrau,42963368,AirKaz.org,Курсай,"улица Казалинская, Курсай, Atyrau, Atyrau Region, 060014, Kazakhstan",47.067,51.886,0.0,ok
+Shymkent,36613425,AirKaz.org,Нурсат,"Нурсат мкр, Кайтпас-1, Shymkent, Каратауский район, Шымкент, 160023, Kazakhstan",42.358,69.623,0.0,ok
+Kuryk,35742416,AirKaz.org,п.Курык,"Массив, Kuryk, Karakiya District, Mangystau Region, 130300, Kazakhstan",43.17,51.678,0.0,ok
+Almaty,37917495,AirKaz.org,Есенова,"улица Есенова, Жетысуский район, Almaty, 050056, Kazakhstan",43.293,76.951,0.0,ok
+Almaty,39168240,AirKaz.org,Карасу 2,"Карасу, Алатауский район, Almaty, Kazakhstan",43.3388,76.9032,0.0,ok
+Karagandy,21,AirKaz.org,Ситимол,"проспект Бухар-жырау, Karaganda, Караганда Г.А., Karaganda Region, 100012, Kazakhstan",49.8,73.089,0.0,ok
+Pavlodar,30929268,AirKaz.org,Чкалова,"улица Сагадата Нурмагамбетова, Второй Павлодар, Северный, Pavlodar, Pavlodar Region, 14006, Kazakhstan",52.298,76.981,0.0,ok
+Zhetybay,35813454,AirKaz.org,Школа №3,"Жетыбай, Karakiya District, Mangystau Region, Kazakhstan",43.5936,52.0958,0.0,ok
+Aktau,32009929,AirKaz.org,Школа №3,"Средняя школа №3, Набережная улица, 1 микрорайон, Aktau, Mangystau Region, 130000, Kazakhstan",43.634,51.179,0.0,ok
+Zhetybay,37182952,AirKaz.org,Школа №8,"P-118, Жетыбай, Karakiya District, Mangystau Region, Kazakhstan",43.588,52.106,0.0,ok
+Almaty,9,AirKaz.org,Ерменсай,"Ерменсай, Бостандыкский район, Almaty, 050023, Kazakhstan",43.174,76.917,0.0,ok
+Zhanaozen,31225663,AirKaz.org,Жанаозен,"Общеобразовательная средняя школа №22, 16/1, Абая улица, Рахат 1, Рахат, Zhanaozen, Mangystau Region, 130201, Kazakhstan",43.351,52.898,0.0,ok
+Almaty,36671067,AirKaz.org,Таусамал,"улица 5-я линия (Тау Самал), Тау Самалы, Тастыбулак, Наурызбайский район, Almaty, 050006, Kazakhstan",43.202,76.812,0.0,ok
+Aktau,30063104,AirKaz.org,Школа №22,"школа № 22, улица Геологов, 22 мкр., Aktau, Mangystau Region, 130000, Kazakhstan",43.645,51.175,0.0,ok
+Pavlodar,34464708,AirKaz.org,Школа №41,"Малайсары батыра, Восточный, Pavlodar, Pavlodar Region, 140011, Kazakhstan",52.288,77.007,0.0,ok
+Almaty,37380840,AirKaz.org,ул.Дулати,"Каргалинка, Нурлытау, Бостандыкский район, Almaty, 050023, Kazakhstan",43.17,76.899,0.0,ok
+Pavlodar,39542696,AirKaz.org,ул. Ломова,"Нуркина, Южный, Pavlodar, Pavlodar Region, 140000, Kazakhstan",52.265,76.964,0.0,ok
+Astana,32149779,AirKaz.org,"Ташенова, 8","Zhumabek Tashenov street, Заречный, Nur-Sultan, район ""Байконур"", Nur-Sultan, 010000, Kazakhstan",51.1514,71.4342,0.0,ok
+Pavlodar,33858988,AirKaz.org,Толстого 95,"№10 школа-лицей им.Абая, улица Толстого, Южный, Pavlodar, Pavlodar Region, 140000, Kazakhstan",52.275,76.962,0.0,ok
+Almaty,36200067,AirKaz.org,Айнабулак-3,"Макатаева улица, микрорайон Айнабулак-3, Жетысуский район, Almaty, 050014, Kazakhstan",43.324,76.919,0.0,ok
+Almaty,39379024,AirKaz.org,Муканова 159,"Весна, ЖК, 159, Mukanov Street, Алмалинский район, Almaty, 050008, Kazakhstan",43.2572,76.914,0.0,ok
+Pavlodar,32948715,AirKaz.org,ул. Ткачева,"улица Теплова, Усольский микрорайон, Южный, Pavlodar, Павлодар Г.А., Pavlodar Region, 140007, Kazakhstan",52.257,76.945,0.0,ok
+Aktobe,36880579,AirKaz.org,Белинского 5,"проспект Мира, Aktobe, Aktobe Region, 030000, Kazakhstan",50.318,57.142,0.0,ok
+Aktobe,37913486,AirKaz.org,Рыскулова 4Г,"улица Кошевого, Aktobe, Aktobe Region, 030000, Kazakhstan",50.316,57.126,0.0,ok
+Almaty,30369354,AirKaz.org,"Тулебаева, 82","Tolebaev Street, Медеуский район, Almaty, A25Y5H4, Kazakhstan",43.2576,76.9484,0.0,ok
+Aksay,35137762,AirKaz.org,ПНЗ №4 (Аксай),"улица Арыстанова, Aksay, Borili District, West Kazakhstan Region, 090301, Kazakhstan",51.16,52.997,0.0,ok
+Shymkent,38737023,AirKaz.org,ул.Сайрамская,"улица Желтоксан, Каратобе 2, Shymkent, Енбекшинский район, Шымкент, 160008, Kazakhstan",42.314,69.642,0.0,ok
+Temirtau,3218686,AirKaz.org,Темиртау (СШ 16),"улица Темиртауская, Temirtau, Темиртау Г.А., Karaganda Region, 101400, Kazakhstan",50.052,72.942,0.0,ok
+Aktobe,31596906,AirKaz.org,Есет Батыра 109А,"ГЕЛЕО, Малая Алия, 5th microdistrict, Aktobe, Aktobe Region, 030000, Kazakhstan",50.294,57.169,0.0,ok
+Almaty,34703847,AirKaz.org,ул.Туруспекова,"Турусбекова, Кристал, Наурызбайский район, Almaty, 050070, Kazakhstan",43.178,76.87,0.0,ok
+Shymkent,32474482,AirKaz.org,ул.Туркестанская,"Туркестанская улица, Shymkent, Аль-Фарабийский район, Шымкент, 160018, Kazakhstan",42.316,69.592,0.0,ok
+Almaty,2,AirKaz.org,Альфараби - Маркова,"Al-Farabi Avenue (East), Асқартау, Медеуский район, Almaty, 050044, Kazakhstan",43.224,76.938,0.0,ok
+Almaty,109,AirKaz.org,Тулебаева-Курмангазы,"Kurmangazy Str, Медеуский район, Almaty, 050021, Kazakhstan",43.245,76.95,0.0,ok
+Almaty,27423,Purple Air,Luxor,"улица Оспанова, Турксиб, Medeu District, Almaty, 050020, Kazakhstan",43.204582,76.974144,0.0,ok
+Almaty,27173,Purple Air,Novy Mir,"Al-Farabi Avenue (East), Асқартау, Медеуский район, Almaty, 050051, Kazakhstan",43.227127,76.956795,0.0,ok
+Almaty,27443,Purple Air,"Block B, Esentai","Esentai Residence II, 77/2, Al-Farabi Avenue (West), Bostandyk District, Almaty, 050060, Kazakhstan",43.22,76.928604,0.0,ok
+Almaty,27297,Purple Air,Zholdasbekova 97,"Dostyk Plaza, 111, Zholdasbekov Street, Medeu District, Almaty, 050050, Kazakhstan",43.233925,76.9549,0.0,ok
+Almaty,27193,Purple Air,"Kazibek bi 41, Park Palace","Kazybek Bi Street, Медеуский район, Almaty, 05000, Kazakhstan",43.257915,76.957085,0.0,ok
+Almaty,43241,Purple Air,Kazakhstan International School,"Al-Farabi Avenue (East), Bostandyk District, Almaty, 050040, Kazakhstan",43.206642,76.922905,0.0,ok
+Kandyagash,k232,KazHydroMet,PCP #1,"Zhambul Zhabaev St, 64A",49.472571,57.422103,292.0,ok
+Makat vil.,k237,KazHydroMet,PCP #1,"H. of Сult. of Makat distr., Alash St, 23",47.64487,53.331825,-24.0,ok
+Turkestan,k92,KazHydroMet,PCP #1,"Alasha Baitak zhyrau St, Oralman distr.",43.28667,68.304334,211.0,ok
+Chu,k39,KazHydroMet,PCP #1,Shu city hospital,43.610837,73.748418,470.0,ok
+Toretam,k90,KazHydroMet,PCP #1,"Muratbaev St, 51 A",45.644234,63.306769,104.0,ok
+Shemonaiha,k252,KazHydroMet,PCP #1,"Anatoly Ivanov St, 59",50.627915,81.918053,313.0,ok
+Satpayev,k253,KazHydroMet,PCP #1,"Microdistrict 4, in the area of TS-6",47.910100001,67.529447918,419.0,ok
+Lisakovsk,k256,KazHydroMet,PCP #1,"Microdistrict 3, 4",52.547538,62.495819,193.0,ok
+Ekibastuz,k95,KazHydroMet,PCP #1,"Mashkhur Zhusup St, 118/1",51.705743,75.33749,209.0,ok
+Aral,k261,KazHydroMet,PCP #1,"Baktybai Batyr St, 114",46.808742,61.646597,62.0,ok
+Kenkiyak vil. ,k234,KazHydroMet,PCP #1,"Kabylgazy Baluanov St, 11B",48.604869,57.116446,208.0,ok
+Zhanaozen,k89,KazHydroMet,PCP #1,"Satpayev St, 1",43.33982,52.854448,202.0,ok
+Ayagoz,k250,KazHydroMet,PCP #1,"Abay Boulevard, 14",47.965439,80.437081,662.0,ok
+Khromtau,k231,KazHydroMet,PCP #1,"M. Gorky St, 9",50.249886,58.436577,432.0,ok
+Zharkent,k229,KazHydroMet,PCP #1,"Spatev St, 242 and Y.Koshkunov St",44.152841,79.991072,615.0,ok
+Arkalyk,k257,KazHydroMet,PCP #1,"Shakshak Zhanibek St, 85",50.249201,66.921237,349.0,ok
+SKFM,k71,KazHydroMet,PCP #1,Integrated background monitoring station,53.002294,70.610058,348.0,ok
+Zhanbai vil.,k236,KazHydroMet,PCP #1,"T. Nysanov, land area 96",47.047536,50.809153,-29.0,ok
+Atbasar,k72,KazHydroMet,PCP #1,"School №3, microdistrict 1",51.818902,68.346866,300.0,ok
+Zyryanovsk,k94,KazHydroMet,PCP #1,"Astana St, 78",49.727419,84.27164,472.0,ok
+Kentau,k50,KazHydroMet,PCP #1,"Shokan Valikhanov St, 3",43.513773,68.487668,416.0,ok
+Inderborsky vil.,k238,KazHydroMet,PCP #1,"H. of Сult.of Inderborsky distr., N.Mendigaliev St, 47",48.55635,51.735106,-5.0,ok
+Sastobe vil.,k265,KazHydroMet,PCP #1,"G.Muratbaev St, 1A",42.552199,70.006528,575.0,ok
+Oskemen,k243,KazHydroMet,PCP #1,"Rabochaya St, 6",49.978515,82.605507,289.0,ok
+Zhanatas,k38,KazHydroMet,PCP #1,"Toktarov St, 27/1 and 27-a",43.563946,69.707703,545.0,ok
+Aksu,k68,KazHydroMet,PCP #1,"Hospital complex, 22",52.340368,71.867612,319.0,ok
+Zhetikara,k258,KazHydroMet,PCP #1,Microdistrict 17,52.189549855,61.197536033,272.0,ok
+Almaty,k56,KazHydroMet,PCP #1,"Satpaev St, 7",43.237859,76.93394,851.0,ok
+Ganyushkino vil.,k239,KazHydroMet,PCP #1,"H. of Cult. of Kurmangazy distr., Abay St, 50",46.603537,49.270783,-26.0,ok
+Semey ,k2,KazHydroMet,PCP #1,"Ryskulov st, 27",50.399262,80.201923,208.0,ok
+Stepnogorsk,k30,KazHydroMet,PCP #1,Stepnogorsk TB dispensary,52.340841,71.867344,318.0,ok
+Karatau,k37,KazHydroMet,PCP #1,"Tamdy aulie St, 130",43.179384,70.438509,538.0,ok
+Auezov vil.,k251,KazHydroMet,PCP #1,"Mira St, 90 v",49.716389,81.588794,435.0,ok
+Shubarshi vil.,k233,KazHydroMet,PCP #1,"Geolog St, 25D",48.580153,57.178708,185.0,ok
+Akai,k91,KazHydroMet,PCP #1,"Korkyt-Ata St, no number",45.609656,63.282165,95.0,ok
+Abay town,k255,KazHydroMet,PCP #1,"Abay St, in the area of the akimat",49.633480901,72.854964256,503.0,ok
+Talgar,k230,KazHydroMet,PCP #1,"Kunaev St, 65",43.302425,77.239448,980.0,ok
+Aiteke-Bi vil.,k259,KazHydroMet,PCP #1,"Zhankozha Nurmukhameduly St, 128",45.827493,62.138322,65.0,ok
+Shieli vil.,k260,KazHydroMet,PCP #1,"Sh.Yessenov St, 8",44.196932,66.729432,151.0,ok
+Kordai,k40,KazHydroMet,PCP #1,"Zhibek Zholy St, 496 A",43.079917,74.707292,633.0,ok
+Taldykorgan,k107,KazHydroMet,PCP #1,"Gagarin St, 216 and Zh.Zhabaev St",45.006979,78.360527,599.0,ok
+Zhezkazgan,k43,KazHydroMet,PCP #1,"Microdistrict 4, in the area of ​​TS-6",47.910901,67.530281,418.0,ok
+Taldykorgan,k61,KazHydroMet,PCP #2,"Kunaev St, 22",45.002716,78.34257,590.0,ok
+Semey ,k248,KazHydroMet,PCP #2,"Naimanbayev St, 189",50.414781,80.248535,208.0,ok
+Burabai,k74,KazHydroMet,PCP #2,"Kenesary St, 25",53.086033,70.301807,326.0,ok
+Oskemen,k11,KazHydroMet,PCP #2,"Leo Tolstoy St, 18",49.945125,82.65275,290.0,ok
+Zhanaozen,k88,KazHydroMet,PCP #2,"Makhambet St, 14 A",43.35065,52.846661,201.0,ok
+Balkhash,k96,KazHydroMet,PCP #2,"Abay St, 10",46.837859,74.970088,373.0,ok
+Saran,k21,KazHydroMet,PCP #2,"Saranskaya St, 28a, central hospital",49.803843112,72.824840229,484.0,ok
+Aktobe,k24,KazHydroMet,PCP #2,"Ryskulov St, 4 G",50.315857,57.12772,211.0,ok
+Kyzylorda,k51,KazHydroMet,PCP #2,"Zhabak Berdenov St, 6",44.847099,65.486961,128.0,ok
+Temirtau,k63,KazHydroMet,PCP #2,"Furmanov St, 5",50.051568,72.996481,507.0,ok
+Turkestan,k263,KazHydroMet,PCP #2,"Nazarbayev St, 5",43.293362,68.28954,213.0,ok
+Kostanay,k77,KazHydroMet,PCP #2,"Borodin St, 144",53.228479,63.630099,164.0,ok
+Uralsk,k85,KazHydroMet,PCP #2,"Gagarin St, 25",51.227619,51.427589,36.0,ok
+Satpayev,k254,KazHydroMet,PCP #2,"Nauryz St, secondary school №27",47.899573798,67.547156701,412.0,ok
+Kokshetau,k75,KazHydroMet,PCP #2,"Mazhit Dzhandildinov St, 4 B",53.283171,69.425463,230.0,ok
+Almaty,k25,KazHydroMet,PCP #2,"Aerodromnaya St, 2B",43.356554,76.87545,704.0,ok
+Semey ,k34,KazHydroMet,PCP #3,"Aerological station St, 1",50.420238,80.274296,201.0,ok
+Pavlodar,k70,KazHydroMet,PCP #3,Lomov St,52.264598,76.964236,123.0,ok
+Glubokoe,k35,KazHydroMet,PCP #3,"Lenin St, 15",50.134814,82.314013,268.0,ok
+Uralsk,k83,KazHydroMet,PCP #3,"Stadium alley, 1/2",51.212015,51.350379,33.0,ok
+Turkestan,k262,KazHydroMet,PCP #3,"A. Sandybay St, 58V",43.278559,68.204759,204.0,ok
+Ridder,k10,KazHydroMet,PCP #3,"Semipalatinskaya St, 9",50.338934879,83.515869798,745.0,ok
+Kyzylorda,k52,KazHydroMet,PCP #3,"Koysary batyr St, 1",44.794887,65.530228,127.0,ok
+Aktobe,k53,KazHydroMet,PCP #3,"Yesset batyr St, 109 A",50.294165115,57.168480685,217.0,ok
+Oskemen,k3,KazHydroMet,PCP #3,"Shakarim Ave, 79",49.966638,82.614993,287.0,ok
+Almaty,k58,KazHydroMet,PCP #3,"Nurkent microdistrict, 6/1",43.258748,76.81706,758.0,ok
+Kyzylsai vil.,k264,KazHydroMet,PCP #4,"Yntymak St, 1",42.347694,69.709302,605.0,ok
+Semey ,k249,KazHydroMet,PCP #4,"Kvartal 343 St, 13/2",50.437156,80.240893,213.0,ok
+Pavlodar,k69,KazHydroMet,PCP #4,Kazpravda St,52.24583,76.983057,119.0,ok
+Kostanay,k78,KazHydroMet,PCP #4,"Volynov St, 12",53.176555,63.607241,153.0,ok
+Aksai,k82,KazHydroMet,PCP #4,"Mukhtar Auezov St, 17",51.160033,52.99712,59.0,ok
+Almaty,k57,KazHydroMet,PCP #4,"Suyunbay Ave, 505",43.374376,76.992008,659.0,not
+Oskemen,k240,KazHydroMet,PCP #4,"Shirokaya St, 44",49.948313,82.627857,286.0,ok
+Astana,k14,KazHydroMet,PCP #5,"Turan Ave, 2/1, Central rescue station",51.157371472,71.415058185,347.0,ok
+Karagandy,k36,KazHydroMet,PCP #5,"Mukanov St, 57/3",49.7866,73.165714,560.0,ok
+Rudny,k81,KazHydroMet,PCP #5,"4th alley, 10-2",52.97374,63.122865,169.0,ok
+Shchuchinsk,k6,KazHydroMet,PCP #5,"Shosseynaya St, № 171",52.951668976,70.250768748,418.0,ok
+Uralsk,k84,KazHydroMet,PCP #5,"Mukhit St, 27/8",51.205502,51.383467,33.0,ok
+Shymkent,k49,KazHydroMet,PCP #5,"""Samal-3"" microdistrict",42.362259436,69.593598709,504.0,ok
+Aktau,k23,KazHydroMet,PCP #5,Microdistrict 12,43.658540091,51.146762,19.0,ok
+Pavlodar,k46,KazHydroMet,PCP #5,"Yestay St, 54",52.281308,76.946696,123.0,ok
+Almaty,k60,KazHydroMet,PCP #5,"Halyk Arena, Kuldzhinsky tract, 2D",43.288125,76.990615,743.0,ok
+Oskemen,k244,KazHydroMet,PCP #5,"Kaisenov St, 30",49.946029,82.624444,287.0,ok
+Petropavl,k76,KazHydroMet,PCP #5,"Parkovaya St, 57",54.856896,69.123008,132.0,ok
+Pavlodar,k47,KazHydroMet,PCP #6,"Zaton St, 39",52.265335,76.937616,110.0,ok
+Kulsary,k87,KazHydroMet,PCP #6,"Makhambet Utemisov St, 37A",46.960532,54.006221,-11.0,ok
+Oskemen,k241,KazHydroMet,PCP #6,"Nazarbayev Ave, 83/2",49.982333,82.572036,285.0,ok
+Petropavl,k29,KazHydroMet,PCP #6,"Zhalel Kizatov St, 3/N",54.923693,69.141221,135.0,ok
+Atyrau,k86,KazHydroMet,PCP #6,"6th St, 29",47.156821,51.982406,-23.0,ok
+Shymkent,k15,KazHydroMet,PCP #6,"""Nursat' microdistrict",42.362713368,69.630918479,531.0,ok
+Aktobe,k31,KazHydroMet,PCP #6,"Zhankozha batyr St, 89",50.290375741,57.22209476,212.0,ok
+Almaty,k59,KazHydroMet,PCP #6,Gulder Park (Apparatus of Akim of Zhetysu distr.),43.301062,76.925444,720.0,ok
+Astana,k12,KazHydroMet,PCP #6,"Akzhol, distr. of wastewater ""Astana Tazalyk""",51.181287116,71.465806956,357.0,ok
+Karagandy,k64,KazHydroMet,PCP #6,"Arkhitekturnaya St, land area 15/1",49.878622,73.18969,547.0,ok
+Taraz,k93,KazHydroMet,PCP #6,"Satpaev St, 5 B",42.92105,71.384906,610.0,ok
+Rudny,k80,KazHydroMet,PCP #6,"Mosque ""Nur""",52.964293,63.114487,163.0,ok
+Aktau,k22,KazHydroMet,PCP #6,"Microdistrict 31, land area №10",43.677764166,51.174961813,16.0,ok
+Pavlodar,k48,KazHydroMet,PCP #7,Toraigyrov-Dyusenov St,52.29491,76.94278,134.0,ok
+Beyneu,k45,KazHydroMet,PCP #7,Vostochnaya,45.323674,55.17715,5.0,ok
+Oskemen,k245,KazHydroMet,PCP #7,"M.Tynyshpaev St, 126",50.009364,82.565595,312.0,ok
+Yanvartsevo,k42,KazHydroMet,PCP #7,"Chapaev St, 14/2",51.431947,52.712399,2.0,ok
+Astana,k4,KazHydroMet,PCP #7,"Turkestan St, 2/1, RPhMS",51.119222952,71.432335527,349.0,ok
+Aksai,k41,KazHydroMet,PCP #7,"Utvinskaya St, 17",51.159997,52.99708,57.0,ok
+Oskemen,k246,KazHydroMet,PCP #8,"Egorov St, 6",50.02744,82.740084,310.0,ok
+Astana,k8,KazHydroMet,PCP #8,"Babatayuly St, 24",51.18611299,71.343722851,346.0,not
+Karagandy,k65,KazHydroMet,PCP #8,3rd kochegarka St (Prishakhtinsk),49.795306,73.165822,565.0,ok
+Atyrau,k32,KazHydroMet,PCP #8,"Alatau St, 3",47.096617,51.942701,-24.0,ok
+Astana,k7,KazHydroMet,PCP #9,"A. Baitursynov St, 25",51.123120595,71.483370959,355.0,ok
+Atyrau,k33,KazHydroMet,PCP #9,"""Bereke"" microdistrict",47.139138,51.96226,-24.0,ok
+Atyrau,k235,KazHydroMet,PCP #10,Apec Petrotechnic College,47.114687,51.860907,-24.0,ok
+Astana,k9,KazHydroMet,PCP #10,"K. Munaitpasov St, 13",51.158413811,71.467460014,351.0,not
+Oskemen,k242,KazHydroMet,PCP #11,"Utepov St, 37",49.901193,82.605813,338.0,ok
+Oskemen,k247,KazHydroMet,PCP #12,"Satpayev Ave, 12",49.900142,82.622665,323.0,ok
+Karabalyk,k44,KazHydroMet,PCP #13,"Gagarin St, 40 A",53.749503,62.051874,190.0,ok
+Almaty,k55,KazHydroMet,PCP #27,"Vasily Benberin St, 34",43.271831,76.844818,750.0,ok
+Almaty,k97,KazHydroMet,PCP #28,"Akhmetov St, 54",43.360683,77.006407,662.0,ok
+Almaty,k26,KazHydroMet,PCP #29,"R.Zorge St, 14",43.338052,76.952083,688.0,ok
+Almaty,k28,KazHydroMet,PCP #30,"""Shanyrak-2"" microdistrict, Zhankozha batyr St",43.298778,76.851498,730.0,ok
+Almaty,k27,KazHydroMet,PCP #31,Park named after the First President,43.180754,76.888068,1047.0,ok
+Almaty,s1,US Consulate,N/A,Abay - Sain,43.22189,76.850993,853.0,ok
+Almaty,s8,PurpleAir.com,N/A,Al-Farabi - Mendikulov,43.227126,76.956792,941.0,ok
+Almaty,s7,PurpleAir.com,N/A,Dostyk - Ospanov,43.204942,76.975031,1070.0,ok
+Almaty,s5,PurpleAir.com,N/A,Al-Farabi - Esentai,43.219596,76.930487,896.0,ok
+Almaty,s6,PurpleAir.com,N/A,Nazarbayev - Ramstore,43.230924,76.95039,915.0,ok
+Almaty,65242,Citizen Science project luftdaten.info,улица Жамакаева,"улица Жамакаева, микрорайон Горный Гигант, Медеуский район, Almaty, 050044, Kazakhstan",43.21126910743,76.94824486971,0.0,ok

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Import Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Air Quality Dashboard</h1>
+        <div id="data-container">
+            <!-- Air quality data will be displayed here -->
+            <div id="charts-container">
+                <h2>Air Quality Parameters</h2>
+                <canvas id="tempChart" width="400" height="200"></canvas>
+                <canvas id="rhChart" width="400" height="200"></canvas>
+                <canvas id="windChart" width="400" height="200"></canvas>
+            </div>
+            <div id="pm25-container">
+                <h2>PM2.5</h2>
+                <p>PM2.5: <span id="pm25"></span></p>
+            </div>
+            <div id="pm10-container">
+                <h2>PM10</h2>
+                <p>PM10: <span id="pm10"></span></p>
+            </div>
+            <div id="no2-container">
+                <h2>NO2</h2>
+                <p>NO2: <span id="no2"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Import Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Air Quality Dashboard</h1>
+        <div id="data-container">
+            <!-- Air quality data will be displayed here -->
+            <div id="charts-container">
+                <h2>Air Quality Parameters</h2>
+                <canvas id="pm10Chart" width="400" height="200"></canvas>
+                <canvas id="pm25Chart" width="400" height="200"></canvas>
+            </div>
+            <div id="pm25-container">
+                <h2>PM2.5</h2>
+                <p>PM2.5: <span id="pm25"></span></p>
+            </div>
+            <div id="pm10-container">
+                <h2>PM10</h2>
+                <p>PM10: <span id="pm10"></span></p>
+            </div>
+            <div id="no2-container">
+                <h2>NO2</h2>
+                <p>NO2: <span id="no2"></span></p>
+            </div>
+            <div id="t-container">
+                <h2>Temp</h2>
+                <p>TEMP: <span id="t"></span></p>
+            </div>
+            <div id="w-container">
+                <h2>Wind</h2>
+                <p>WIND: <span id="w"></span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
