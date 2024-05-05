@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Function to fetch air quality data from the backend API
     async function fetchAirQualityData() {
         try {
-            const response = await fetch('http://localhost:8000/api/air_quality');
+            // const response = await fetch('http://localhost:8000/api/air_quality');
+            const response = await fetch('https://coobeliues.github.io/api/air_quality');
             
             const data = await response.json();
             updateUI(data);
@@ -33,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
     async function fetchWeather() {
-        const gpt_response = await fetch('http://localhost:8000/api/weather_insights');
+        const gpt_response = await fetch('https://coobeliues.github.io/api/weather_insights');
         const gpt_data = await gpt_response.text();
         updateWeatherInsights(gpt_data);
 
