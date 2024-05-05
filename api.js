@@ -128,9 +128,9 @@ function showStation(station, output) {
         });
 }
  
-function token() {
-    return $(token.id).val() || "demo";
-}
+// function token() {
+//     return $(token.id).val() || "demo";
+// }
  
 function colorize(aqi, specie) {
     specie = specie || "aqi";

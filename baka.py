@@ -7,14 +7,20 @@ import g4f
 app = FastAPI()
 
 # Enable CORS
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=["*"],  # Allowing requests from any origin for simplicity
+#     allow_credentials=True,
+#     allow_methods=["*"],
+#     allow_headers=["*"],
+# )
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allowing requests from any origin for simplicity
+    allow_origins=["https://coobeliues.github.io"],
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET", "POST"],  # Adjust the allowed methods as needed
     allow_headers=["*"],
 )
-
 
 @app.get("/api/air_quality")
 async def get_air_quality_data():
