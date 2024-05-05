@@ -159,3 +159,4 @@ function colorize(aqi, specie) {
         .css("background-color", spectrum[i].b)
         .css("color", spectrum[i].f);
 }
+init()

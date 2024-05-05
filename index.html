@@ -8,11 +8,14 @@
     <!-- Leaflet CSS and JS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
-    <script
-        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="script.js"></script>
+    <script src="api.js"></script>
+
 
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -64,7 +67,6 @@
 
         <input type="text" id="search-input" placeholder="Enter your search query" style="height: 10px; width: 97%;">
         <div id="search-output"></div>
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <!-- Script for search functionality -->
         <script>
             document.addEventListener('DOMContentLoaded', function () {
@@ -81,7 +83,6 @@
             });
 
         </script>
-        <script src="api.js"></script>
 
         <h3>Map</h3>
 
@@ -93,7 +94,6 @@
 
     </div>
 
-    <script src="script.js"></script>
 </body>
 
 </html>

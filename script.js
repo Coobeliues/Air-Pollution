@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function () {
     document.body.appendChild(mapScript);
 
     // Call the init() function from the map.js file
-    // init();
+    init();
 
     // Fetch air quality data initially
     fetchAirQualityData();
